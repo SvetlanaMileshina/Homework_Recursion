@@ -1,0 +1,14 @@
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\bin\Debug\net8.0\Recursion_1.exe
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\bin\Debug\net8.0\Recursion_1.deps.json
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\bin\Debug\net8.0\Recursion_1.runtimeconfig.json
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\bin\Debug\net8.0\Recursion_1.dll
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\bin\Debug\net8.0\Recursion_1.pdb
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\obj\Debug\net8.0\Recursion_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\obj\Debug\net8.0\Recursion_1.AssemblyInfoInputs.cache
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\obj\Debug\net8.0\Recursion_1.AssemblyInfo.cs
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\obj\Debug\net8.0\Recursion_1.csproj.CoreCompileInputs.cache
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\obj\Debug\net8.0\Recursion_1.dll
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\obj\Debug\net8.0\refint\Recursion_1.dll
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\obj\Debug\net8.0\Recursion_1.pdb
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\obj\Debug\net8.0\Recursion_1.genruntimeconfig.cache
+C:\Users\OLDI.RU\Desktop\Homework\Recursion_1\obj\Debug\net8.0\ref\Recursion_1.dll
